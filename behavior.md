@@ -1,0 +1,1 @@
+<!-- Definição das funcionalidades que cada partícula poderá ter -->
