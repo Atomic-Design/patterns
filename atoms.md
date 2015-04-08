@@ -15,7 +15,7 @@ Os Atoms, no conceito de Atomic, são as menores partes distribuídas dentro do 
 > Exemplo de Atoms dentro de um formulário:
 
  - Uma label: ```<label class="atom-label"></label>```
- - Um campo de texto: ```<input type="text" class="atom-input-text">```
+ - Um campo texto: ```<input type="text" class="atom-input-text">```
  - Um botão: ```<button class="atom-button">Click-me</button>```
 
 
