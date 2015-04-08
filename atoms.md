@@ -14,12 +14,14 @@ Os Atoms, no conceito de Atomic, são as menores partes distribuídas dentro do 
 
 > Exemplo de Atoms dentro de um formulário:
 
- - Uma label: ```<label class="atom-label"></label>```
- - Um campo texto: ```<input type="text" class="atom-input-text">```
- - Um botão: ```<button class="atom-button">Click-me</button>```
+- Uma label: ```<label class="atom-label"></label>```
+- Um campo texto: ```<input type="text" class="atom-input-text">```
+- Um botão: ```<button class="atom-button">Click-me</button>```
 
 
  ## Artigos e referências:
 
-  - [Brad Frost](http://bradfrost.com/blog/post/atomic-web-design/)
-  - [Suissa](http://nomadev.com.br/atomic-design-por-que-usar/)
+- [Atomic Web Design](http://bradfrost.com/blog/post/atomic-web-design/)
+- [Atomic Design por que usar](http://nomadev.com.br/atomic-design-por-que-usar/)
+- [Atomic Design - Nomenclaturas](http://nomadev.com.br/atomic-design-nomeclatura-suissa/)
+- [Atomic Design com Angularjs](http://nomadev.com.br/atomic-design-com-angularjs/)
